@@ -1,6 +1,5 @@
 # Git_course
 first, try GitHub using 
 
-#GitHub important notes 
-#1
-#2
+#GitHub_important_notes 
+##important notes 
