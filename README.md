@@ -1,2 +1,4 @@
 # Git_course
-first try github using 
+first, try GitHub using 
+
+##GitHub important notes 
